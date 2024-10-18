@@ -15,6 +15,16 @@ Este site oferece:
 
 ---
 
+## 🖼️ Demonstração 
+
+💻 Acesse a [Demonstração Online](https://paola-tomaz.github.io/start-na-programacao-onebitcode/)
+
+Ou veja uma prévia abaixo:
+
+![image](https://github.com/user-attachments/assets/500b9342-39d1-4095-86bf-f4a1a8ec5307)
+
+---
+
 ## 🛠️ Tecnologias Utilizadas  
 
 - **HTML5**: Estrutura do conteúdo  
@@ -37,9 +47,7 @@ Este site oferece:
 
 # 🎯 Funcionalidades Implementadas  
 - **Navegação Simples**: Links entre as páginas HTML.  
-- **Formulário de Contato**: Simulação de envio de mensagens.  
-- **Galeria Estática**: Exibição de imagens com CSS básico.  
-- **Alertas em JavaScript**: Exemplo de interação básica com o usuário.  
+- **Interação em Javascript**: Exemplo de interação básica com o usuário.  
 
 ---
 
@@ -72,6 +80,7 @@ Este projeto foi uma ótima introdução ao desenvolvimento web. Aprendi:
 ---
 
 ## 🔄 Possíveis Melhorias Futuras  
+
 - **Tornar o site responsivo** usando **media queries**.  
 - **Adicionar animações** com CSS.  
 - **Adicionar página** de contato.
